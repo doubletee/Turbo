@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboBrowser", "TurboBrowser\TurboBrowser.csproj", "{8CC70016-912A-4B28-8F96-51E35414B849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC70016-912A-4B28-8F96-51E35414B849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC70016-912A-4B28-8F96-51E35414B849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC70016-912A-4B28-8F96-51E35414B849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC70016-912A-4B28-8F96-51E35414B849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA55B3E-CEF2-4114-864E-36BCCF6004FD}
+	EndGlobalSection
+EndGlobal
