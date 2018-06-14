@@ -8,3 +8,13 @@ C:\Users\Tolgahan\source\repos\TurboBrowser\TurboBrowser\obj\Debug\TurboBrowser.
 C:\Users\Tolgahan\source\repos\TurboBrowser\TurboBrowser\obj\Debug\TurboBrowser.csproj.CoreCompileInputs.cache
 C:\Users\Tolgahan\source\repos\TurboBrowser\TurboBrowser\obj\Debug\TurboBrowser.exe
 C:\Users\Tolgahan\source\repos\TurboBrowser\TurboBrowser\obj\Debug\TurboBrowser.pdb
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\bin\Debug\TurboBrowser.exe.config
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\bin\Debug\TurboBrowser.exe
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\bin\Debug\TurboBrowser.pdb
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.csprojAssemblyReference.cache
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.BrowserContainer.resources
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.Properties.Resources.resources
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.csproj.GenerateResource.cache
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.exe
+C:\Users\Tolgahan\Desktop\Turbo\TurboBrowser\obj\Debug\TurboBrowser.pdb
